@@ -1,0 +1,29 @@
+{
+  "name": "google-fonts-api",
+  "version": "1.0.0",
+  "description": "Google Fonts is a library of 1,364 free licensed font families and APIs for convenient use via CSS and Android. The library also has delightful and beautifully crafted icons for common actions and items. Download them for use in your digital products for Android, iOS, and web.",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakesh-barman/Google-Fonts-API.git"
+  },
+  "keywords": [
+    "google",
+    "fonts",
+    "api"
+  ],
+  "author": "rakesh barman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakesh-barman/Google-Fonts-API/issues"
+  },
+  "homepage": "https://github.com/rakesh-barman/Google-Fonts-API#readme"
+}
